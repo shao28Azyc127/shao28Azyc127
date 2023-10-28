@@ -17,3 +17,5 @@ reg. date:2022/06/08
 
 <a href="https://codeforces.com/profile/shao28A134" title="shao28A134">My codeforces account</a>
 
+[![Page Views Count](https://badges.toozhao.com/badges/01HBT1ZG0CHC2SXQACKQ1Y5DXK/green.svg)](https://badges.toozhao.com/stats/01HBT1ZG0CHC2SXQACKQ1Y5DXK "Get your own page views count badge on badges.toozhao.com")
+
